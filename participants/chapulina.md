@@ -1,6 +1,8 @@
 Participant info
 ================
 
+TODO: Add info
+
 chapulina (and steffi)
 =====
 
